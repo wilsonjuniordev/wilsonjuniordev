@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Wilson Junior</h1>
+<h3 align="center">A Software Developer from Brazil</h3>
 
-<!--
-**wilsonjuniordev/wilsonjuniordev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Java | JavaScript | Python
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **[Tema Sistemas](https://www.temasistemas.com.br/)** with Java, sometimes with Javascript, sometimes with Python, It's cool.
+- 📝 I'm always learning **Clean Code, SOLID and Patterns**, please, let's have a good code, please.
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilsonjunior-dev/)](https://www.linkedin.com/in/wilsonjunior-dev/)
+
+<p align="center">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=wilsonjuniordev&show_icons=true&theme=tokyonight">
+</p>
